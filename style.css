@@ -1,0 +1,40 @@
+body{
+    background-color: hsl(216, 28%, 7%)!important;
+    
+}
+
+.navbar{
+    background-color: hsl(216, 28%, 7%);
+    height: 48px;
+}
+.navbar a{
+    text-decoration: none;
+    color: hsl(210, 40%, 98%);
+}
+.navbar ul{
+    list-style-type: none; 
+    display: flex;
+    justify-content: space-between; 
+}
+
+.navbar li a{
+    text-decoration: none;
+    color:hsl(210, 40%, 98%);
+}
+
+.container{
+    display: flex;
+    align-items: flex-start;
+}
+
+.header{
+    color:hsl(210, 40%, 98%);
+    display: inline-block; 
+    justify-self: center;
+    align-self: center;
+}
+
+.container1{
+    background-color: hsl(221, 39%, 11%);
+}
+
